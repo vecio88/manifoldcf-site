@@ -1,4 +1,6 @@
 title: Download
+slug: download
+lang: en
 
 # Download
 

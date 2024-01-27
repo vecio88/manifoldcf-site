@@ -1,4 +1,6 @@
 title: ManifoldCF - Developer Resources
+slug: developer-resources
+lang: en
 
 # ManifoldCF - Developer Resources
 

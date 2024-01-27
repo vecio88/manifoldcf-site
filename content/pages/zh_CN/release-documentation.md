@@ -1,4 +1,6 @@
 title: ManifoldCF发布文档
+slug: release-documentation
+lang: zh
 
 # ManifoldCF发布文档
 

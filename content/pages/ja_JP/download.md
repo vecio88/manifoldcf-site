@@ -1,4 +1,6 @@
 title: ダウンロード
+slug: download
+lang: ja
 
 # ダウンロード
 

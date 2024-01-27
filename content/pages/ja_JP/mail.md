@@ -1,4 +1,6 @@
 title: ManifoldCF - メーリングリスト
+slug: mail
+lang: ja
 
 # ManifoldCF - メーリングリスト
 

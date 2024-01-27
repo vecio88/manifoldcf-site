@@ -1,4 +1,6 @@
 title: Verifying ManifoldCF releases
+slug: verify
+lang: en
 
 # Verifying ManifoldCF releases
 

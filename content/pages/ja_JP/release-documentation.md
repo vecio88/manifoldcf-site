@@ -1,4 +1,6 @@
 title: ManifoldCFリリースドキュメント
+slug: release-documentation
+lang: ja
 
 # ManifoldCFリリースドキュメント
 

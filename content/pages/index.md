@@ -1,4 +1,5 @@
 title: Welcome to Apache ManifoldCF™!
+Save_as: index.html
 
 # Welcome to Apache ManifoldCF™!
 

@@ -1,4 +1,6 @@
 title: Apache ManifoldCF™にようこそ！
+slug: index
+lang: ja
 
 # Apache ManifoldCF™にようこそ！
 

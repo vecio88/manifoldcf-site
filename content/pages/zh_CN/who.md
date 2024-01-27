@@ -1,4 +1,6 @@
 title: Who We Are
+slug: who
+lang: zh
 
 # Who We Are
 

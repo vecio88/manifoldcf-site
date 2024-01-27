@@ -1,4 +1,6 @@
 title: 欢迎来到Apache ManifoldCF™！
+slug: index
+lang: zh
 
 # 欢迎来到Apache ManifoldCF™！
 

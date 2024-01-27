@@ -1,4 +1,6 @@
 title: ManifoldCF - 開発者リソース
+slug: developer-resources
+lang: ja
 
 # ManifoldCF - 開発者リソース
 

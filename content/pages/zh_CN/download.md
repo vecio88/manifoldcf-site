@@ -1,4 +1,6 @@
 title: 下载
+slug: download
+lang: zh
 
 # 下载
 

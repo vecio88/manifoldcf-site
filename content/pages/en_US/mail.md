@@ -1,4 +1,6 @@
 title: ManifoldCF - Mailing Lists
+slug: mail
+lang: en
 
 # ManifoldCF - Mailing Lists
 

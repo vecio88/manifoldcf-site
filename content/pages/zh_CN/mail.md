@@ -1,4 +1,6 @@
 title: ManifoldCF - 邮件列表
+slug: mail
+lang: zh
 
 # ManifoldCF - 邮件列表
 

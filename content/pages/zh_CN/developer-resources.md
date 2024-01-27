@@ -1,4 +1,6 @@
 title: ManifoldCF - 开发人员资源
+slug: developer-resources
+lang: zh
 
 # ManifoldCF - 开发人员资源
 

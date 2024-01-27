@@ -1,4 +1,6 @@
 title: Welcome to Apache ManifoldCF!
+slug: index
+lang: en
 
 # Welcome to Apache ManifoldCF™!
 ## What Is Apache ManifoldCF?

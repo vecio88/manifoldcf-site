@@ -1,4 +1,6 @@
 title: ManifoldCF Document Security
+slug: security
+lang: en
 
 # ManifoldCF Document Security
 

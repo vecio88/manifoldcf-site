@@ -1,4 +1,6 @@
 title: Who We Are
+slug: who
+lang: ja
 
 # Who We Are
 

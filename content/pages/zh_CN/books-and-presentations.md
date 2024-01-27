@@ -1,4 +1,6 @@
 title: ManifoldCF - Books and Presentations
+slug: books-and-presentations
+lang: zh
 
 # ManifoldCF - Books and Presentations
 
